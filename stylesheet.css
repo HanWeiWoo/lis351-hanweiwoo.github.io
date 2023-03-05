@@ -79,14 +79,14 @@ body{
     width:33%;
   }
 
-  .comp {
-    float:right;
+  .formal {
     width:33%;
+    float:right;
   }
 
-  .formal {
-    float:right;
+  .comp {
     width:33%;
+    float:left;
   }
 
   .center
