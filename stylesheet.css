@@ -1,0 +1,111 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+    color:  #999a9d;
+    font-size:16px;
+}
+
+nav {
+    width:fit-content;
+	background-color: #272832;
+    padding: 5px;
+	margin: 0 auto;
+    float:right;
+}
+
+nav a {
+	display: inline;
+	color:#e5e5e6;
+	text-align: center;
+    padding: 15px;
+	margin: 20px;
+	text-decoration: none;
+    font-size: 20px;
+}
+
+body{
+    background-color:#1c1d26;
+    margin: 40px;
+}
+
+.intropara {
+    float:left;
+    width:68%;
+    margin: 0 auto;
+  }
+
+.profilepic {
+    float:right;
+    padding:15px;
+    margin: 0 auto;
+    width:400px;
+  }
+
+.sec1
+{
+    float:left;
+    width:65%;
+    margin: 0 auto;
+  }
+
+  .sec2
+{
+    float:right;
+    width:28%;
+    margin: 0 auto;
+  }
+
+  .work
+{
+    float:left;
+    width:70%;
+    margin:0 auto;
+  }
+
+.organizations
+{
+    float:left;
+    width:70%;
+    margin:0 auto;
+}
+  
+.project
+ {  float:left ;
+    width:70%;
+    margin:0 auto;
+}
+
+.language {
+    float:left;
+    width:33%;
+  }
+
+  .comp {
+    float:right;
+    width:33%;
+  }
+
+  .formal {
+    float:right;
+    width:33%;
+  }
+
+  .center
+  {
+    display: block;
+    margin:0 auto;
+    padding-top: 30px;
+  }
+
+  .email
+  {
+    display: block;
+    margin:0 auto;
+    padding-top: 30px;
+    float:left;
+  }
+
+  .center {
+    display: block;
+    margin:0 auto;
+    padding-top: 30px;
+  }
